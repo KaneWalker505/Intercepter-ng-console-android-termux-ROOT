@@ -6,6 +6,8 @@ Intercepter-ng console for android (termux) *ROOT REQUIRED
 
 load via 
 
+```pkg install libpcap```
+
 ```./intercepterng_arm64_v8 -h```
 
 ```./intercepterng_arm32_v7 -h```
