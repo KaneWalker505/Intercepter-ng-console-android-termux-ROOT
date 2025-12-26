@@ -2,3 +2,10 @@
 Intercepter-ng console for android (termux) *ROOT REQUIRED
 
 ![demo image](demo.png)
+
+
+load via 
+
+```./intercepterng_arm64_v8 -h```
+
+```./intercepterng_arm32_v7 -h```
