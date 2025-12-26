@@ -4,7 +4,13 @@ Intercepter-ng console for android (termux) *ROOT REQUIRED
 ![demo image](demo.png)
 
 
-load via 
+# Requirements 
+
+```libpcap```
+```root```
+
+
+# Install (load)
 
 ```pkg install libpcap```
 
